@@ -15,6 +15,9 @@ Fork/clone the GitHub repository created for this assignment. You will submit th
 ###Questions to be answered:
 
 What is mean total number of steps taken per day?
+
 What is the average daily activity pattern?
+
 Imputing missing values
+
 Are there differences in activity patterns between weekdays and weekends?
